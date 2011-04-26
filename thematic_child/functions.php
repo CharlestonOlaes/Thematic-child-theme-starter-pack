@@ -37,6 +37,6 @@ define('THEMATIC_COMPATIBLE_POST_CLASS', true);
 Define paths for easy access
 */
 define('CHILD_THEMATIC_INCLUDE_PATH', STYLESHEETPATH.'/library/includes/', true);
-define('CHILD_THEMATIC_SCRIPT_PATH', get_bloginfo('stylesheet_directory') . '/library/scripts/', true);
+define('CHILD_THEMATIC_SCRIPT_PATH', get_bloginfo('stylesheet_directory') . '/library/javascripts/', true);
 define('CHILD_THEMATIC_STYLE_PATH', get_bloginfo('stylesheet_directory') . '/library/styles/', true);
 ?>
