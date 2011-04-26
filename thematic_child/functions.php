@@ -1,3 +1,3 @@
 <?php
-//silence
+//silence is
 ?>
