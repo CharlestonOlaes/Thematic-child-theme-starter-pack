@@ -12,7 +12,7 @@ Thematic is © Ian Stewart http://themeshaper.com/
 .
 */
 /* Reset browser defaults */
-@import url('../thematic/library/styles/reset.css');
+@import url('./library/styles/reset.css');
 
 /* Apply basic typography styles */
 @import url('../thematic/library/styles/typography.css');

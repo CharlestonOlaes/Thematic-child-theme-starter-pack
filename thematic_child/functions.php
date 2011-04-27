@@ -39,4 +39,8 @@ Define paths for easy access
 define('CHILD_THEMATIC_INCLUDE_PATH', STYLESHEETPATH.'/library/includes/', true);
 define('CHILD_THEMATIC_SCRIPT_PATH', get_bloginfo('stylesheet_directory') . '/library/javascripts/', true);
 define('CHILD_THEMATIC_STYLE_PATH', get_bloginfo('stylesheet_directory') . '/library/styles/', true);
+
+require_once(CHILD_THEMATIC_INCLUDE_PATH . 'functions-helper.php');
+require_once(CHILD_THEMATIC_INCLUDE_PATH . 'functions-admin.php');
+require_once(CHILD_THEMATIC_INCLUDE_PATH . 'functions-biolerplate.php');
 ?>

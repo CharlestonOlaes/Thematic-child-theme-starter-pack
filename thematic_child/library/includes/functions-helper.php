@@ -1,5 +1,9 @@
 <?php
 /*
+This file shall contain various miscellaneous functions
+*/
+
+/*
 function for creating tweet button
 */
 function childtheme_create_tweet_button($args){
